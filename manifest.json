@@ -1,6 +1,6 @@
 {
-    "name": "qr_code_menu",
-    "short_name": "qr_code_menu",
+    "name": "nfc_project",
+    "short_name": "nfc_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
